@@ -1,0 +1,23 @@
+[
+    {
+    "id": 1,
+    "nome": "Mavi Oliveira",
+    "idade": 17,
+    "email": "maviOliveia@email.com",
+    "salario": 25.000
+},
+{
+    "id": 2,
+    "nome": "Agata Morais",
+    "idade": 16,
+    "email": "AgataMBert@email.com",
+    "salario": 12.000
+},
+{
+    "id": 3,
+    "nome": "Mario Gameplay",
+    "idade": 12,
+    "email": "marioAmaJogos@email.com",
+    "salario": 500
+}
+]
