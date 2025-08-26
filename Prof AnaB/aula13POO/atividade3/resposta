@@ -1,0 +1,6 @@
+Atividade 3
+Explique a diferença entre classe e objeto em POO.
+Qual a diferença de uma classe “Carro” e um objeto “meuCarro”?
+
+R: A classe carro é um modelo que sera utilizado pra armazenar varios tipos de carros ou muitos carros semelhantes
+e o objeto diferencia dos demais definido dentro desse modelo, fazendo ser unico em meio dos parecidos.

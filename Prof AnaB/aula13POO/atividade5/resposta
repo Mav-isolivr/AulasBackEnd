@@ -1,0 +1,31 @@
+// Atividade 5
+// Crie uma classe Livro com atributos título, autor e ano. Instancie dois objetos e exiba suas
+// informações no console.
+
+class Livro{
+    titulo;
+    autor;
+    ano;
+
+    constructor(titulo, autor){
+        this.titulo = titulo;
+        this.autor = autor;
+    }
+
+    setTitulo(titulo){
+        this.titulo = titulo
+    }
+    getTitulo(){
+        return this.titulo
+    }
+
+
+    setAutor(autor){
+        this.autor = autor
+    }
+    getAutor(){
+        return this.autor
+    }
+}
+
+const objetoLivro = new Livro("Memórias Póstumas de Brás Cubas", "Machado de Assis");

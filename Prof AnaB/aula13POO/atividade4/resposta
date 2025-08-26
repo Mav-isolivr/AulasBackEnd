@@ -1,0 +1,62 @@
+// Atividade 4
+// Liste os atributos e métodos que você colocaria em uma classe “Aluno”
+
+class Aluno{
+    nome;
+    cpf;
+    dataNascimento;
+    idade;
+    matricula;
+    turno;
+    turma;
+    escola;
+    uc;
+
+    constructor(nome, idade, matricula, turma, escola){
+        this.nome = nome;
+        this.idade = idade;
+        this.matricula = matricula;
+        this.turma = turma;
+        this.escola = escola
+    }
+
+    setNome(nome){
+        this.nome = nome
+    }
+
+    setIdade(idade){
+        this.idade = idade
+    }
+
+    setMatricula(matricula){
+        this.matricula = matricula
+    }
+
+    setTurma(turma){
+        this.turma = turma
+    }
+
+    setEscola(escola){
+        this.escola = escola
+    }
+
+
+
+    getNome(){
+        return this.nome
+    }
+    getIdade(){
+        this.idade = idade
+    }
+    getMatricula(){
+        this.matricula = matricula
+    }
+    getTurma(){
+        this.turma = turma
+    }
+    getEscola(){
+        this.escola = escola
+    }
+}
+
+module.exports = Aluno

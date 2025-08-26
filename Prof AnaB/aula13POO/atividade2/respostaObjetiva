@@ -1,0 +1,5 @@
+Comando: Explique como a POO poderia ser aplicada para criar a estrutura de funcionários e quais
+vantagens ela oferece
+
+R: A) Criando uma classe Funcionario que serve como modelo, permitindo instanciar vários objetos com dados
+individuais e métodos compartilhados
