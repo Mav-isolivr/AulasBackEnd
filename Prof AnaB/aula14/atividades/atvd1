@@ -1,0 +1,13 @@
+1º Explique COM AS SUAS PALAVRAS o que é public, private e protected.
+
+public é um metodo e atribudo que todos podem usar
+private é acessivel somente dentro da propria classe
+protected é acessivel dentro da propria classe e tambem dentro das subclasse(herança)
+
+2º Explique COM AS SUAS PALAVRAS o que é GET e SET dentro de uma classe.
+o get é utilizado para ler e retorna o objeto/conteudo ja o set é utilizado para implementar ou ate atualizar
+
+
+3º Explique COM AS SUAS PALAVRAS para que serve o encapsulamento.
+o encapsulamento serve para utilizar dentro das classes, deixar organizado e oculto, permite que metodos publico utilizem
+porem de forma controlada.
