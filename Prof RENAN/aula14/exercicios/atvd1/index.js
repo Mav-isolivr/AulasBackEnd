@@ -1,0 +1,34 @@
+const Pessoa = require('./Pessoa')
+
+
+
+
+const pessoinha = new Pessoa('mavi', 2649812691826569)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
